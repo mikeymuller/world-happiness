@@ -1,0 +1,32 @@
+
+Summary:
+This project aims to predict the salary of jobs based on key words in the
+description of the job listings. Focusing primarily on tech related jobs, data
+was scraped from online postings on Indeed in the 311 largest cities in the US.
+The data was cleaned using SQL and OpenRefine, and machine learning algorithms
+such as a Random Forest Classifier were used to attempt to predict job salaries
+based on key words in the description. Much work needs to be done moving forward,
+which includes amassing more relevant data to analyze, and accurate methods for
+extracting key phrases from within that data. A focus will be put on tech job
+listings and how they compare to listing in other work industries and sectors.
+
+Strengths:
+1. You all do a good job describing how you went about and got your idea. I like
+that you mention your initial data acquisition process, what was wrong with it,
+and how you adjusted your methods to better fit your model.
+2. I liked that you described the reasoning behind the decisions you made when
+it came to classifying your data and adding columns based on the type of
+measurements you wanted to collect and analyze.
+
+Weaknesses:
+1. While I like the general information that your visualizations give me about
+the data that you collected, they aren't very relevant to the questions that
+your project is aiming to answer, or the main goal of your project. I would
+love to see some more visualization relating job salaries to the key words in
+the description of the jobs.
+2. You mention in the end of your report that you plan on focusing primarily on
+tech job posts and how they compare to other sectors. I would worry that if a
+majority of the listing you pull are from the tech sector, your results will be
+skewed to favor key words and terms that are specific to the tech field. You
+might want to consider a method to make sure you collect a range of data in
+similar proportions across different industries. 

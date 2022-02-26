@@ -1,0 +1,112 @@
+Country,Year,Code,Regime Type,Region,Continent,Happiness,Binary Happiness,PPP per capita,Unemployment Percent,Health expenditure,Male Life Expectancy,Adolescent fertility
+Afghanistan,2015,700,Authoritarian,Southern Asia,Asia,3.983,0,1802.05,8.86,10.29759,62.046,73.1264
+Argentina,2015,160,Flawed democracy,Latin America and Caribbean,South America,6.697,1,19116.91,7.15,6.834533,72.594,63.2644
+Armenia,2015,371,Hybrid regime,Central and Eastern Europe,Europe,4.348,0,8195.93,18.26,10.14084,71.094,24.785
+Australia,2015,900,Full democracy,Australia and New Zealand,Pacific,7.309,1,43923.26,6.06,9.445333,80.4,13.6616
+Austria,2015,305,Full democracy,Western Europe,Europe,7.076,1,44304.97,5.72,10.31988,78.8,7.522
+Azerbaijan,2015,373,Authoritarian,Central and Eastern Europe,Europe,5.147,0,16698.86,4.96,6.678018,68.913,51.7
+Bahrain,2015,692,Authoritarian,Middle East and Northern Africa,Africa,6.007,1,43926.47,1.21,5.155972,75.933,13.618
+Bangladesh,2015,771,Hybrid regime,Southern Asia,Asia,4.633,0,3132.57,4.43,2.639473,70.586,85.3076
+Belarus,2015,370,Authoritarian,Central and Eastern Europe,Europe,5.719,1,17219.12,0.49,6.111325,68.6,18.7992
+Belgium,2015,211,Flawed democracy,Western Europe,Europe,6.904,1,41708.21,8.48,10.47713,78.7,5.3384
+Benin,2015,434,Hybrid regime,Sub-Saharan Africa,Africa,3.625,0,1987.14,2.63,3.991901,59.132,90.2036
+Bolivia,2015,145,Hybrid regime,Latin America and Caribbean,South America,5.834,1,6531.52,3.07,6.41118,66.322,69.9186
+Bosnia and Herzegovina,2015,346,Hybrid regime,Central and Eastern Europe,Europe,5.117,0,10932.41,27.69,9.38256,74.172,10.8342
+Botswana,2015,571,Flawed democracy,Sub-Saharan Africa,Africa,3.762,0,15032.7,17.02,5.970916,62.935,33.4544
+Brazil,2015,140,Flawed democracy,Latin America and Caribbean,South America,6.547,1,14702.59,8.44,8.911484,71.644,63.7578
+Bulgaria,2015,355,Flawed democracy,Central and Eastern Europe,Europe,4.865,0,16999.05,9.14,8.203093,71.2,41.0864
+Burkina Faso,2015,439,Hybrid regime,Sub-Saharan Africa,Africa,4.419,0,1596.34,6.49,5.446772,59.191,108.7606
+Cambodia,2015,811,Authoritarian,Southeastern Asia,Asia,4.162,0,3290.95,0.18,5.446772,66.474,49.6326
+Cameroon,2015,471,Authoritarian,Sub-Saharan Africa,Africa,5.038,0,3289.07,4.3,5.113025,56.398,111.8636
+Canada,2015,20,Full democracy,North America,North America,7.413,1,43149.48,6.91,10.43562,80.23,10.1748
+Chad,2015,483,Authoritarian,Sub-Saharan Africa,Africa,4.323,0,2067.1,5.66,4.576283,51.372,167.942
+Chile,2015,155,Flawed democracy,Latin America and Caribbean,South America,6.533,1,22516.61,6.51,8.071086,76.708,47.526
+China,2015,710,Authoritarian,Eastern Asia,Asia,5.304,0,13569.89,4.61,5.315868,74.641,6.5968
+Colombia,2015,100,Flawed democracy,Latin America and Caribbean,South America,6.388,1,12922.04,8.24,6.191328,70.664,51.537
+"Congo, Rep",2015,484,Authoritarian,Sub-Saharan Africa,Africa,4.691,0,5542.89,10.03,3.433912,62.52,116.3622
+Costa Rica,2015,94,Full democracy,Latin America and Caribbean,South America,6.854,1,14738.61,9.26,8.145585,77.225,55.701
+Croatia,2015,344,Flawed democracy,Central and Eastern Europe,Europe,5.205,0,21025.84,16.18,7.403615,74.3,9.8238
+Czech Republic,2015,316,Flawed democracy,Central and Eastern Europe,Europe,6.608,1,30605.42,5.05,7.308222,75.7,10.4158
+Denmark,2015,390,Full democracy,Western Europe,Europe,7.514,1,45458.7,6.17,10.32621,78.8,4.2482
+Dominican Republic,2015,42,Flawed democracy,Latin America and Caribbean,South America,5.062,0,13395.92,5.92,6.224041,70.631,97.2322
+Ecuador,2015,130,Flawed democracy,Latin America and Caribbean,South America,5.964,1,7019.59,4,8.54316,73.402,75.2802
+El Salvador,2015,92,Hybrid regime,Latin America and Caribbean,South America,6.018,1,10749.13,3.62,6.914531,68.547,71.0814
+Estonia,2015,366,Flawed democracy,Central and Eastern Europe,Europe,5.629,1,27549.58,6.19,6.51254,73.2,14.0274
+Finland,2015,375,Full democracy,Western Europe,Europe,7.448,1,38941.76,9.38,9.445691,78.7,7.0306
+France,2015,220,Flawed democracy,Western Europe,Europe,6.358,1,37766.37,10.36,11.06644,79.2,8.9614
+Gabon,2015,481,Authoritarian,Sub-Saharan Africa,Africa,4.661,0,16836.6,20.01,2.678917,64.161,101.667
+Georgia,2015,372,Hybrid regime,Central and Eastern Europe,Europe,4.122,0,9025.13,11.96,7.932359,68.811,48.201
+Germany,2015,255,Full democracy,Western Europe,Europe,7.037,1,43937.95,4.62,11.15157,78.3,7.1462
+Ghana,2015,452,Flawed democracy,Sub-Saharan Africa,Africa,3.986,0,3823.53,2.15,5.908237,61.437,68.677
+Greece,2015,350,Flawed democracy,Western Europe,Europe,5.623,1,24170.3,24.9,8.384838,78.5,7.7494
+Guatemala,2015,90,Hybrid regime,Latin America and Caribbean,South America,6.465,1,7292.71,2.7,5.716386,69.922,73.9864
+Guinea,2015,438,Authoritarian,Sub-Saharan Africa,Africa,3.505,0,1758.32,4.53,4.536532,58.917,139.5256
+Haiti,2015,41,Hybrid regime,Latin America and Caribbean,South America,3.57,0,1651.23,14.05,6.868281,60.902,38.976
+Honduras,2015,91,Hybrid regime,Latin America and Caribbean,South America,4.845,0,4319.47,4.59,7.592485,70.849,73.5778
+Hungary,2015,310,Flawed democracy,Central and Eastern Europe,Europe,5.344,0,25034.45,6.81,7.236134,72.3,19.9328
+India,2015,750,Flawed democracy,Southern Asia,Asia,4.342,0,5756.66,3.49,3.888257,66.857,25.9968
+Indonesia,2015,850,Flawed democracy,Southeastern Asia,Asia,5.043,0,14738.86,8.09,3.347431,67.004,48.6144
+Iraq,2015,645,Hybrid regime,Middle East and Northern Africa,Africa,4.493,0,10367.7,4.51,3.397016,67.479,79.462
+Ireland,2015,205,Full democracy,Western Europe,Europe,6.83,1,60818.05,9.4,7.761442,79.6,10.6084
+Israel,2015,666,Flawed democracy,Middle East and Northern Africa,Africa,7.079,1,32024.35,5.25,7.431381,80.1,10.1468
+Italy,2015,325,Flawed democracy,Western Europe,Europe,5.848,1,34302.04,11.9,8.99632,80.3,6.2124
+Japan,2015,740,Flawed democracy,Eastern Asia,Asia,5.88,1,37882.98,3.33,10.89816,80.75,4.2384
+Jordan,2015,663,Authoritarian,Middle East and Northern Africa,Africa,5.405,0,8491.05,13.07,6.284397,72.532,24.131
+Kazakhstan,2015,705,Authoritarian,Central and Eastern Europe,Europe,5.95,1,23524.06,4.93,3.880475,67.5,29.3336
+Kenya,2015,501,Hybrid regime,Sub-Saharan Africa,Africa,4.358,0,2835.89,11.59,5.220177,64.292,83.0942
+Kuwait,2015,690,Authoritarian,Middle East and Northern Africa,Africa,6.146,1,68476.33,2.2,4.033269,73.7,9.7994
+Latvia,2015,367,Flawed democracy,Central and Eastern Europe,Europe,5.881,1,23018.69,9.87,5.760599,69.7,14.1934
+Lebanon,2015,660,Hybrid regime,Middle East and Northern Africa,Africa,5.172,0,13274.04,6.63,7.431472,77.788,12.5314
+Lithuania,2015,368,Flawed democracy,Central and Eastern Europe,Europe,5.711,1,27045.6,9.12,6.51478,69.2,12.101
+Luxembourg,2015,212,Full democracy,Western Europe,Europe,6.702,1,94088.59,6.67,6.047742,80,5.6798
+Madagascar,2015,580,Hybrid regime,Sub-Saharan Africa,Africa,3.593,0,1377.17,1.8,5.23779,64.001,113.7668
+Malawi,2015,553,Hybrid regime,Sub-Saharan Africa,Africa,3.868,0,1088.7,5.88,9.330972,60.038,141.779
+Malaysia,2015,820,Flawed democracy,Southeastern Asia,Asia,6.322,1,25016.73,3.1,3.998686,73.008,13.308
+Mali,2015,432,Hybrid regime,Sub-Saharan Africa,Africa,4.582,0,1919.23,7.73,5.796634,56.786,173.0382
+Malta,2015,338,Full democracy,Western Europe,Europe,6.613,1,34079.69,5.39,9.616842,79.7,16.9792
+Mauritania,2015,435,Authoritarian,Sub-Saharan Africa,Africa,3.923,0,3601.61,9.85,4.639819,61.601,81.7854
+Mexico,2015,70,Flawed democracy,Latin America and Caribbean,South America,6.236,1,16934.73,4.34,5.86449,74.516,62.5464
+Moldova,2015,359,Hybrid regime,Central and Eastern Europe,Europe,6.017,1,4746.79,3.69,10.17683,67.2,23.4344
+Mongolia,2015,712,Flawed democracy,Eastern Asia,Asia,4.983,0,11411.94,4.86,3.869919,65.091,24.8272
+Montenegro,2015,341,Hybrid regime,Central and Eastern Europe,Europe,5.125,0,15290.02,17.52,5.970296,74.537,12.4102
+Morocco,2015,600,Hybrid regime,Middle East and Northern Africa,Africa,5.163,0,7296.93,9.66,5.527864,74.406,32.2602
+Nepal,2015,790,Hybrid regime,Southern Asia,Asia,4.812,0,2314.28,3.1,6.146987,68.324,63.6844
+Netherlands,2015,210,Full democracy,Western Europe,Europe,7.324,1,46494.36,6.87,10.69028,79.9,4.175
+New Zealand,2015,920,Full democracy,Australia and New Zealand,Pacific,7.418,1,35309.82,5.37,9.340351,79.73,21.1848
+Nicaragua,2015,93,Authoritarian,Latin America and Caribbean,South America,5.924,1,4956.92,4.48,7.807075,72.078,88.3512
+Niger,2015,436,Authoritarian,Sub-Saharan Africa,Africa,3.671,0,908.17,0.34,7.165198,58.717,196.034
+Pakistan,2015,770,Hybrid regime,Southern Asia,Asia,4.823,0,4695.7,3.57,2.689498,65.379,38.4744
+Panama,2015,95,Flawed democracy,Latin America and Caribbean,South America,6.606,1,20817.56,4.53,7.009162,74.855,83.8412
+Paraguay,2015,150,Flawed democracy,Latin America and Caribbean,South America,5.56,1,11138.78,4.56,7.819787,70.942,57.5128
+Peru,2015,135,Flawed democracy,Latin America and Caribbean,South America,5.577,1,11770.03,3,5.264804,72.13,49.3358
+Philippines,2015,840,Flawed democracy,Southeastern Asia,Asia,5.547,1,6874.58,3.04,4.413516,65.684,59.211
+Poland,2015,290,Flawed democracy,Central and Eastern Europe,Europe,6.007,1,25307.25,7.5,6.347234,73.5,13.3568
+Portugal,2015,235,Flawed democracy,Western Europe,Europe,5.081,0,26607.83,12.44,8.972376,78.1,10.4192
+Romania,2015,360,Flawed democracy,Central and Eastern Europe,Europe,5.777,1,20665.56,6.81,4.954418,71.5,34.3786
+Rwanda,2015,517,Authoritarian,Sub-Saharan Africa,Africa,3.483,0,1734.73,1.17,7.895293,64.556,27.8358
+Saudi Arabia,2015,670,Authoritarian,Middle East and Northern Africa,Africa,6.345,1,50723.71,5.59,5.833172,73.114,8.823
+Senegal,2015,433,Flawed democracy,Sub-Saharan Africa,Africa,4.617,0,2921.95,4.85,3.970266,64.739,77.0508
+Serbia,2015,272,Flawed democracy,Central and Eastern Europe,Europe,5.318,0,13277.72,17.92,9.40508,72.8,19.7254
+Sierra Leone,2015,451,Hybrid regime,Sub-Saharan Africa,Africa,4.909,0,1314.27,4.7,18.31859,50.867,118.3336
+Singapore,2015,830,Flawed democracy,Southeastern Asia,Asia,6.62,1,81741.1,1.69,4.252175,80.5,3.7704
+Slovenia,2015,317,Flawed democracy,Central and Eastern Europe,Europe,5.741,1,29037.74,8.96,8.543184,77.8,4.4396
+South Africa,2015,560,Flawed democracy,Sub-Saharan Africa,Africa,4.887,0,12377.66,25.16,8.201155,58.458,46.068
+Spain,2015,230,Full democracy,Western Europe,Europe,6.381,1,32291.16,22.06,9.165375,80.1,8.758
+Sri Lanka,2015,780,Flawed democracy,Southern Asia,Asia,4.612,0,11079.71,4.67,2.966015,71.707,15.5636
+Sweden,2015,380,Full democracy,Western Europe,Europe,7.289,1,45679.28,7.4,11.01207,80.4,5.3086
+Tajikistan,2015,702,Authoritarian,Central and Eastern Europe,Europe,5.124,0,2640.63,10.36,6.853735,68.152,37.4176
+Tanzania,2015,510,Hybrid regime,Sub-Saharan Africa,Africa,3.661,0,2490.96,2.12,6.123065,63.076,118.1232
+Thailand,2015,800,Hybrid regime,Southeastern Asia,Asia,6.202,1,15252.23,0.6,3.771486,71.368,51.7358
+Tunisia,2015,616,Flawed democracy,Middle East and Northern Africa,Africa,5.132,0,10765.89,15.22,6.740491,73.519,7.6278
+Turkey,2015,640,Hybrid regime,Middle East and Northern Africa,Africa,5.514,1,23388.47,10.24,4.138533,72.231,28.006
+Turkmenistan,2015,701,Authoritarian,Central and Eastern Europe,Europe,5.791,1,14992.32,3.58,6.254806,64.283,25.2328
+Uganda,2015,500,Hybrid regime,Sub-Saharan Africa,Africa,4.238,0,1665.95,1.91,7.301931,57.359,114.5604
+Ukraine,2015,369,Hybrid regime,Central and Eastern Europe,Europe,3.965,0,7464.94,9.14,6.134496,66.37,25.4852
+United Arab Emirates,2015,696,Authoritarian,Middle East and Northern Africa,Africa,6.568,1,66569.4,1.93,3.4659,76.414,28.0758
+United Kingdom,2015,200,Full democracy,Western Europe,Europe,6.515,1,38839.17,5.3,9.876772,79.2,14.5964
+United States,2015,2,Flawed democracy,North America,North America,6.864,1,53005.64,5.28,16.83613,76.3,22.441
+Uruguay,2015,165,Full democracy,Latin America and Caribbean,South America,6.628,1,19831.45,7.49,9.223928,73.677,56.0292
+Uzbekistan,2015,704,Authoritarian,Central and Eastern Europe,Europe,5.972,1,5700.24,7.94,6.234303,68.473,16.9212
+Vietnam,2015,816,Authoritarian,Southeastern Asia,Asia,5.076,0,5554.86,2.12,5.652622,71.299,30.7942
+Zambia,2015,551,Hybrid regime,Sub-Saharan Africa,Africa,4.843,0,3627.2,7.75,5.354287,58.903,89.1276
+Zimbabwe,2015,552,Authoritarian,Sub-Saharan Africa,Africa,3.703,0,2196.87,5.09,10.3172,58.593,107.5554
